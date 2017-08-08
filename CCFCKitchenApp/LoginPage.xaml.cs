@@ -20,7 +20,7 @@ namespace CCFCKitchenApp
 		}
 		void OnLoginButtonClicked()
 		{
-			Navigation.PushAsync(new CCFCKitchenAppPage());
+			Navigation.PushAsync(new CCFCKitchenAppMasterDetailPage());
 		}
 	}
 }

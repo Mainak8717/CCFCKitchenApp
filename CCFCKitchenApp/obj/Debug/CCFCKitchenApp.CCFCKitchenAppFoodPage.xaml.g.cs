@@ -11,7 +11,7 @@
 namespace CCFCKitchenApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/CCFCKitchenAppFoodPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/Mainak/Desktop/CCFCKitchenApp/CCFCKitchenApp/CCFCKitchenAppFoodPage.xaml")]
     public partial class CCFCKitchenAppFoodPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
