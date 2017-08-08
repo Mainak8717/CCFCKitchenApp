@@ -1,29 +1,20 @@
 ﻿<Properties StartupConfiguration="{34C3FB17-A0E1-4BDD-B006-00C53F504C94}|Default">
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="CCFCKitchenApp" expanded="True">
-            <Node name="CCFCKitchenApp" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="CCFCKitchenAppFoodPage.xaml" expanded="True" />
-              <Node name="CCFCKitchenAppPage.xaml" expanded="True" selected="True" />
-              <Node name="LoginPage.xaml" expanded="True" />
-            </Node>
-            <Node name="CCFCKitchenApp.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CCFCKitchenApp Status">
+    <Files>
+      <File FileName="CCFCKitchenApp/CCFCKitchenAppMasterDetailPage.xaml" Line="1" Column="39" />
+      <File FileName="CCFCKitchenApp/CCFCKitchenAppMasterDetailPage.xaml.cs" Line="30" Column="1" />
+      <File FileName="CCFCKitchenApp/HomePage.xaml" Line="1" Column="1" />
+      <File FileName="CCFCKitchenApp/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CCFCKitchenApp/LoginPage.xaml.cs" Line="23" Column="59" />
+      <File FileName="CCFCKitchenApp Status" />
+      <File FileName="CCFCKitchenApp Status" />
+    </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CCFCKitchenApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6969CABA-7FE2-4CFE-A8E0-AEFCC7848062" />
+  <MonoDevelop.Ide.ItemProperties.CCFCKitchenApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BEDC417F-BB22-4017-A642-06EC6476DCB3" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CCFCKitchenApp HideGettingStarted="True" />
 </Properties>
