@@ -1,0 +1,16 @@
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.App.xaml
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.CCFCKitchenAppPage.xaml
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.CCFCKitchenAppFoodPage.xaml
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.App.xaml.g.cs
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.CCFCKitchenAppPage.xaml.g.cs
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.CCFCKitchenAppFoodPage.xaml.g.cs
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/bin/Debug/CCFCKitchenApp.pdb
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/bin/Debug/CCFCKitchenApp.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.pdb
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.LoginPage.xaml
+/Users/KolkataMobility/Projects/CCFCKitchenApp/CCFCKitchenApp/obj/Debug/CCFCKitchenApp.LoginPage.xaml.g.cs

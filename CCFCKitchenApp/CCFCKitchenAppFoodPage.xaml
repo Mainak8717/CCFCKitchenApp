@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="CCFCKitchenApp.CCFCKitchenAppFoodPage"
+	BackgroundColor = "Gray">
+
+	<StackLayout Padding="20,20,20,20" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+		<Label Text = "Menu" TextColor = "Red" HorizontalTextAlignment = "Center" HorizontalOptions = "Center" FontSize = "32" FontAttributes = "Bold"/>
+		<ScrollView>
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="300" />
+				<RowDefinition Height="300" />
+				<RowDefinition Height="300" />
+				<RowDefinition Height="300" />
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="300" />
+				<ColumnDefinition Width="300" />
+			</Grid.ColumnDefinitions>
+		
+			<Image x:Name ="munchies" Source="munchiesImg.jpeg" Grid.Row="0" Grid.Column="0" />
+			<Image x:Name = "sandwiches" Source="sandwichesImg.jpeg" Grid.Row="0" Grid.Column="1" />
+			<Image x:Name = "egg" Source="eggdelicacyImg.jpeg" Grid.Row="1" Grid.Column="0" />
+			<Image x:Name = "pizza" Source="pizzaImg.jpeg" Grid.Row="1" Grid.Column="1" />
+
+			<Image x:Name ="rolls" Source="rolls.jpeg" Grid.Row="2" Grid.Column="0" />
+			<Image x:Name = "appetizer" Source="AppetizersImg.jpeg" Grid.Row="2" Grid.Column="1" />
+			<Image x:Name = "south" Source="southindianImg.jpeg" Grid.Row="3" Grid.Column="0" />
+			<Image x:Name = "conti" Source="continentalImg.jpeg" Grid.Row="3" Grid.Column="1" />
+
+			<Image x:Name ="chinese" Source="chineseImg.jpeg" Grid.Row="4" Grid.Column="0" />
+			<Image x:Name = "salad" Source="saladImg.jpeg" Grid.Row="4" Grid.Column="1" />
+
+
+<!--			  <Label Text="Bread &amp; Sandwiches" Grid.Row="0" Grid.Column="1"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+
+			  <Label Text="Egg Delicacy" Grid.Row="1" Grid.Column="0"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+
+			  <Label Text="Pizza" Grid.Row="1" Grid.Column="1"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+
+			  <Label Text="Wraps &amp; Rolls" Grid.Row="2" Grid.Column="0"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+	
+			  <Label Text="Appetizers" Grid.Row="2" Grid.Column="1" 
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+
+			  <Label Text="South Indian" Grid.Row="3" Grid.Column="0"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+
+			  <Label Text="Continental" Grid.Row="3" Grid.Column="1"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center" 
+					BackgroundColor = "White"/>
+	
+			  <Label Text="Chinese/Thai" Grid.Row="4" Grid.Column="0"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+	
+			  <Label Text="Salad" Grid.Row="4" Grid.Column="1"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+					BackgroundColor = "White"/>
+			
+			  <Label Text="Indian Cuisine" Grid.Row="5" Grid.Column="0"
+					VerticalOptions = "Center"
+					HorizontalOptions = "Center" 
+					VerticalTextAlignment = "Center"
+					HorizontalTextAlignment = "Center"
+				BackgroundColor = "White"/>-->
+			
+			
+<!--			<Image x:Name ="drinksItemImg" Source="drinksImg.jpeg" Grid.Row="0" Grid.Column="0" />
+			<Image x:Name = "foodItemImg" Source="foodImg.jpeg" Grid.Row="0" Grid.Column="1" />
+			<Image x:Name = "dessertsItemImg" Source="dessertsImg.jpeg" Grid.Row="1" Grid.Column="0" />
+			<Image x:Name = "beveragesItemImg" Source="beveragesImg.jpeg" Grid.Row="1" Grid.Column="1" />-->
+
+		</Grid>
+		</ScrollView>
+	</StackLayout>
+	
+</ContentPage>

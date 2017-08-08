@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{34C3FB17-A0E1-4BDD-B006-00C53F504C94}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CCFCKitchenApp" expanded="True">
+            <Node name="CCFCKitchenApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="CCFCKitchenAppFoodPage.xaml" expanded="True" />
+              <Node name="CCFCKitchenAppPage.xaml" expanded="True" selected="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+            </Node>
+            <Node name="CCFCKitchenApp.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CCFCKitchenApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6969CABA-7FE2-4CFE-A8E0-AEFCC7848062" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CCFCKitchenApp HideGettingStarted="True" />
+</Properties>

@@ -1,0 +1,16 @@
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.1/actool/_PartialAppManifest.items
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.1/actool/_BundleResourceWithLogicalName.items
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.1/optimized/
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/CCFCKitchenApp.iOS.pdb
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/CCFCKitchenApp.iOS.exe
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/CCFCKitchenApp.iOS.exe
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/CCFCKitchenApp.iOS.pdb
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/CCFCKitchenApp.dll
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/bin/iPhoneSimulator/Debug/CCFCKitchenApp.pdb
+/Users/KolkataMobility/Projects/CCFCKitchenApp/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.1/optimized/logo.PNG
